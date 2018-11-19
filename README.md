@@ -69,3 +69,46 @@ Der **Plan** mit einem **Team** aus mir und **3 Experten** in **vier Wochen den 
 * **Phil** ▫️ GIS, CityEngine Expert / Developer ▫️ **Kisumu**, Kenya
 * **Nirmla** ▫️ Expert with wordpress/PHP, HTML/CSS3, SASS, Angular JS ▫️ **Mandi**, India
 
+## Projekt
+Das Projekt für den Prototypen Zürich 3D startete am Montag den 22.10.2018 und sollet am Sonntag den 18.11.18 abgeschlossen sein. So viel der Plan 😎
+
+### 💯 Sprint 1  
+* Goal: Explore with data from TurboSquid and from GIS-Browser with Unity
+* Period 22.10.2018 - 28.10.18
+* Duration: 3 days
+* Leonard time spent: 10.1 hrs
+* 🥇 Success ratio: 100%   
+* Summary: [Video Report](https://www.youtube.com/watch?v=gJH0NMV72y8&t=607s)
+
+***
+
+### 💯 Sprint 2  
+* Goal: Explore with data from OpenStreetMap with Unity (80%) & construct first demo scenes (20%)
+* Period 29.10.2018 - 04.11.18
+* Duration: 7 days
+* Leonard time spent: 40.0 hrs
+* 👍 Success ratio: 80%   
+* Summary: [Video Report](https://www.youtube.com/watch?v=zpmHGtxzrP4), construction of demo scenes not done as too many open questions regarding the data sources and how to construct facades in a efficient way.
+
+***
+
+### 💯 Sprint 3  
+* Goal: Get the Stadtmodell Zürich 3D, Check [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) capabilities and licence cost with [Esri](https://www.esri.ch), get in touch with local creatives such as illustrators, animation pros, film makers, find coworkers for 3D modelling, cartoon illustrators, 2D to 3D modellers, visit local 3D body scanner studio, create bookmarks for all the 3D, Unity animation stuff, buy and read books about animation styles, architecture, design.
+* Period 05.11.2018 - 11.11.18
+* Duration: 7 days
+* Leonard Time spent: 7.4 hrs
+* 🥇 Success ratio: 100%   
+* Summary: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file), CityEngine Advanced (Demo License 30days trial), [Christian Zogg](http://www.christianzogg.com) (Zürich), [Florian Baumann](http://www.florianbaumann.com/about/) (PULK Zürich), [Lilou Studio](http://www.liloustudio.com/3D_animation/index.php) (Margit Games Zürich), [Mookx](http://www.mookx.nl) (Amsterdam), Daniel Hovatis (Graz), [Gorille](http://gorille.co) (Paris), Bookmarks, [Wiki Animation 3D](https://github.com/mind-research-systems/zuerich/wiki/Animation-3D-Bookmarks)
+
+***
+
+### 💯 Sprint 4  
+* Goal: Retro of last three weeks. Replanning until end of November 2018. Improve Documentation Quality (QMS). Do construct sample locations [Schindlerpark](https://www.google.ch/maps/place/Schindlergut/@47.3864388,8.5339195,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a0d28ecddf5:0x9d56e4a79c4143ef!8m2!3d47.3864388!4d8.5361082), [Limmatplatz](https://www.google.ch/maps/place/Limmatpl.,+8005+Zürich/@47.3844261,8.5294995,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a12589a41d7:0x2beaee1b7214c23e!8m2!3d47.3844225!4d8.5316935) or [Escher-Wyss-Platz](https://www.google.ch/maps/place/Escher-Wyss-Platz,+8005+Zürich/@47.3910482,8.5200328,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a41c5a22331:0x5a85c425ae122858!8m2!3d47.3910446!4d8.5222268), [Kornhausbrücke](https://www.google.ch/maps/place/Kornhausbrücke,+Zürich/@47.3857063,8.5309521,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a12a474e059:0x228d28bb36797350!8m2!3d47.3857027!4d8.5331461). 
+* Duration: 5 days
+* Time spent: 20.1 hrs
+* Period 12.11.2018 - 18.11.18
+* 🥇 Success ratio: 100%   
+* Summary: **Diese Projektdokumentation**
+
+
+
