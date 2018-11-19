@@ -79,7 +79,7 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * **Donat genügend Stunden**
 * **Leonard 10 Stunden**
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: Das Modell von TurboSquid war totaler Schrott, den ich zum Glück zurück erstattet bekam. Leonard hat einen Videoreport seiner Erfolge mit den Daten aus dem GIS-Browser als [Video Report](https://www.youtube.com/watch?v=gJH0NMV72y8) geschickt.
+* Zusammenfassung: Das Modell von TurboSquid war totaler Schrott, den ich zum Glück zurück erstattet bekam. **Leonard** 👱 ist ins Team gekommen und hat einen Videoreport seiner Erfolge mit den Daten aus dem GIS-Browser als [Video Report](https://www.youtube.com/watch?v=gJH0NMV72y8) geschickt.
 
 ***
 
@@ -102,7 +102,7 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * Leonard **7** Stunden
 * Phil **28** Stunden
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file). CityEngine Advanced (Demo Lizenz 30days trial). Team um Phil erweitert. 
+* Zusammenfassung: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file). CityEngine Advanced (Demo Lizenz 30days trial). **Phil** 👱 ist ins Team gekommen. 
 
 Besucht oder telefoniert mit:
 * [Christian Zogg](http://www.christianzogg.com) (Zürich). 
@@ -125,5 +125,5 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 * Nirmla **2** Stunden
 * Periode: 12.11.2018 - 18.11.18
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: **Diese Projektdokumentation** und Team mit Nirmla ergänzt.
+* Zusammenfassung: **Diese Projektdokumentation** und ins Team gekommen ist **Nirmla** 👩.
 
