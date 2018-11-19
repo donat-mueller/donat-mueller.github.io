@@ -65,8 +65,8 @@ Meine grösste Inspiration ist mein **Mami**, das Leben an und für sich und nat
 Auf Upwork habe ich aus mir bekannten und neuen **Experten** ein Team gebildet um einen **Prototypen für Zürich 3D** in **4 Wochen** zu entwickeln.
 Name | Qualifikation | Wohnort 
 ------------ | ------------- | -------------
-**Donat** | ebenskünstler und Informatiker | **Zürich**, Schweiz
+**Donat** | Lebenskünstler und Informatiker | **Zürich**, Schweiz
 **Leonard** | 3D Content Creator, Animator and Effects Artist | **Douala**, Cameroon
-**Phil**, GIS Expert/ Developer (**Kisumu**, Kenya)
+**Phil** | GIS Expert / Developer | **Kisumu**, Kenya
 **Nirmla** | Shopify expert with wordpress/PHP with HTML/CSS3, SASS, Angular JS | **Mandi**, India
 
