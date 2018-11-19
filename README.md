@@ -39,14 +39,10 @@ Simulation | Gamification
 
 Manche mögen sich jetzt fragen: *was hat das **Soziale Netzwerk** da zu suchen ?* 
 
-Die *MRS Mind Research Systems GmbH* erforscht Gedanken und Gefühle. 
+Die **MRS Mind Research Systems GmbH** erforscht Gedanken und Gefühle. 
 
 *Ein Soziales Netzwerk ist ein Speicher für Emotionen.* 
 
-Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ! 
+Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ! *Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* 
 
-*Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* 
-
-Solche und andere Fragen zu beantworten ist der *Zweck der Simulation* 
-
-und mit dem *Zürich 3D* lassen sich nebenbei noch interessante Spielanwendungen realisieren.
+Solche und andere Fragen zu beantworten ist der *Zweck der Simulation* und mit dem *Zürich 3D* lassen sich nebenbei noch interessante Spielanwendungen realisieren.
