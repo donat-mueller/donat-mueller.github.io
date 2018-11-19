@@ -38,4 +38,15 @@ Simulation | Gamification
 ![Alt text](https://g.gravizo.com/svg?digraph%20G%20%7B%0A%20%20size%20%3D%224%2C4%22%3B%0A%20%20agent%20%5Blabel%20%3D%20%22Agent%22%5D%3B%20%0A%20%20sn%20%5Blabel%20%3D%20%22Soziales%20Netzwerk%22%5D%3B%0A%20%20%20unity%20%5Blabel%20%3D%20%22Unity3D%22%5D%3B%0A%20%20agent%20-%3E%20sn%20%5Bstyle%3Ddotted%5D%3B%0A%20%20sn%20-%3E%20unity%3B%0A%7D) | ![Alt text](https://g.gravizo.com/svg?digraph%20G%20%7B%0A%20%20size%20%3D%224%2C4%22%3B%0A%20%20player%20%5Blabel%20%3D%20%22Spieler%22%5D%3B%20%0A%20%20sn%20%5Blabel%20%3D%20%22Soziales%20Netzwerk%22%5D%3B%0A%20%20%20unity%20%5Blabel%20%3D%20%22Unity3D%22%5D%3B%0A%20%20player%20-%3E%20sn%20%5Bstyle%3Ddotted%5D%3B%0A%20%20sn%20-%3E%20unity%3B%0A%7D)
 
 Manche mögen sich jetzt fragen: *was hat das **Soziale Netzwerk** da zu suchen ?* 
-Die *MRS Mind Research Systems GmbH* erforscht Gedanken und Gefühle. *Ein Soziales Netzwerk ist ein Speicher für Emotionen.* Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ! *Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* Solche und andere Fragen zu beantworten ist der *Zweck der Simulation* und mit dem *Zürich 3D* lassen sich nebenbei noch interessante Spielanwendungen realisieren.
+
+Die *MRS Mind Research Systems GmbH* erforscht Gedanken und Gefühle. 
+
+*Ein Soziales Netzwerk ist ein Speicher für Emotionen.* 
+
+Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ! 
+
+*Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* 
+
+Solche und andere Fragen zu beantworten ist der *Zweck der Simulation* 
+
+und mit dem *Zürich 3D* lassen sich nebenbei noch interessante Spielanwendungen realisieren.
