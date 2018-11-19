@@ -37,4 +37,4 @@ Sonst wird es schwierig innert nützlicher Frist und mit den mir zur verfügung 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
 
-*Simulations und Gamification Platform für Zürich in 3D*
+**Simulations und Gamification Platform für Zürich in 3D**
