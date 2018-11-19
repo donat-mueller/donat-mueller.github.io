@@ -17,7 +17,24 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/11026671/47834942-f6822e80-dda1-11e8-980c-832891336d0f.png" width="415" height="300"></td> 
+    <td><img src="https://user-images.githubusercontent.com/11026671/47834942-f6822e80-dda1-11e8-980c-832891336d0f.png" height="375"></td> 
+    <td>
+		<table ">
+  			<tr>
+   				 <td><img src="aussen-1.jpg" height="75" width="120"></td> 
+		    </tr>
+  			<tr>
+   				 <td><img src="innenhof-1.png" height="75" width="120"></td> 
+		    </tr>
+  			<tr>
+   				 <td><img src="architektur.jpg" height="75" width="120"></td> 
+		    </tr>
+  			<tr>
+   				 <td><img src="nacht.jpg" height="75" width="120"></td> 
+		    </tr>
+  			<tr>
+		</table>
+    </td> 
   </tr>
 </table>
 
