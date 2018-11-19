@@ -114,7 +114,7 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * Phill **39** Stunden
 * Nirmla **2** Stunden
 * Periode: 12.11.2018 - 18.11.18
-* 🥇 Success ratio: 100%   
+* 🥇 Erfolg: 100%   
 * Zusammenfassung: **Diese Projektdokumentation**
 
 
