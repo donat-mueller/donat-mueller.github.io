@@ -95,14 +95,24 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 ***
 
 ### 💯 Woche 3  
-* Ziel: Organisiere das Stadtmodell Zürich 3D. Überprüfe die [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) bezüglich Möglichkeiten und Lizenzkosten bei [Esri](https://www.esri.ch) Schweiz. Kontaktiere Kunstschaffende von Zürich wie Illustratoren, 3D Animationsprofis oder Filmproduzenten. Finde Mitarbeiter für 3D Modellierung, cartoCartoon & Anime Zeichner sowie 2D nach 3D Modellkonvertiererdienstleister. Besuch eines 3D Körperscanner und Plastikfigurendruckservice in Zürich. Erstelle eine Lesezeichensammlung für all die 3D, Unity Animationsquellen im Internet. Kaufe und lese Bücher über Animation, Zeichenstyle, Architektur und Design.
+* Ziel: Organisiere das Stadtmodell Zürich 3D. Überprüfe die [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) bezüglich Möglichkeiten und Lizenzkosten bei [Esri](https://www.esri.ch) Schweiz. Finde einen GIS und CityEngine Experten als freien Mitarbeier. Kontaktiere Kunstschaffende von Zürich wie Illustratoren, 3D Animationsprofis oder Filmproduzenten. Finde Mitarbeiter für 3D Modellierung, cCartoon & Anime Zeichner sowie 2D nach 3D Modellkonvertiererdienstleister. Besuch eines 3D Körperscanner und Plastikfigurendruckservice in Zürich. Erstelle eine Lesezeichensammlung für all die 3D, Unity Animationsquellen im Internet. Kaufe und lese Bücher über Animation, Zeichenstyle, Architektur und Design.
 * Periode: 05.11.2018 - 11.11.18
 * Dauer: 7 Tage
 * Donat genügend Stunden
 * Leonard **7** Stunden
 * Phil **28** Stunden
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file), CityEngine Advanced (Demo Lizenz 30days trial), [Christian Zogg](http://www.christianzogg.com) (Zürich), [Florian Baumann](http://www.florianbaumann.com/about/) (PULK Zürich), [Lilou Studio](http://www.liloustudio.com/3D_animation/index.php) (Margit Games Zürich), [Mookx](http://www.mookx.nl) (Amsterdam), Daniel Hovatis (Graz), [Gorille](http://gorille.co) (Paris), Bookmarks, [Wiki Animation 3D](https://github.com/mind-research-systems/zuerich/wiki/Animation-3D-Bookmarks)
+* Zusammenfassung: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file). CityEngine Advanced (Demo Lizenz 30days trial). Team um Phil erweitert. 
+
+Besucht oder telefoniert mit:
+* [Christian Zogg](http://www.christianzogg.com) (Zürich). 
+* [Florian Baumann](http://www.florianbaumann.com/about/) (PULK Zürich). 
+* [Lilou Studio](http://www.liloustudio.com/3D_animation/index.php) (Margit Games Zürich). 
+* [Mookx](http://www.mookx.nl) (Amsterdam).
+* Daniel Hovatis (Graz)
+* [Gorille](http://gorille.co) (Paris)
+
+Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-systems/zuerich/wiki/Animation-3D-Bookmarks)
 
 ***
 
