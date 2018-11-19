@@ -32,7 +32,7 @@ Also müsste ich eine Technologie wie [Computer Generated Architecture](https://
   <tr>
 </table>
 
-*Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel.* 
+Sonst wird es schwierig innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel zu kommen.
 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
