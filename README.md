@@ -49,3 +49,6 @@ Ein Soziales Netzwerk ist ein **Speicher für Emotionen**, den ich in 3D zu visu
 Solche und andere Fragen zu beantworten, ist der Zweck der Simulation.
 
 Mit **Zürich 3D** lassen sich aber auch interessante Spielanwendungen realisieren... 😃
+
+## Vorgehen
+Als Vorgehensmodell verwende ich [Scrum](https://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf). Als Leitfaden für die Spielentwicklung halte ich mich an [Fundamentals of Game Design](http://ptgmedia.pearsoncmg.com/images/9780321929679/samplepages/0321929675.pdf). Zur Vorproduktionsplanung habe ich mir [Preproduction Blueprint: How to Plan Game Environments and Level Designs](https://www.worldofleveldesign.com/store/preproductionblueprint.php) gekauft.
