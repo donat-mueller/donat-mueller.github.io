@@ -41,7 +41,9 @@ Manche mögen sich jetzt fragen: *was hat das **Soziale Netzwerk** da zu suchen 
 
 Die **MRS Mind Research Systems GmbH** hat den Zweck:
 
-**Erforschung von Gedanken und Gefühlen** und ein Soziales Netzwerk ist ein **Speicher für Emotionen**
+**Erforschung von Gedanken und Gefühlen** 
+
+Ein Soziales Netzwerk ist ein **Speicher für Emotionen**, den ich in 3D zu visualisieren versuche will.
 
 * Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ? 
 * Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?
