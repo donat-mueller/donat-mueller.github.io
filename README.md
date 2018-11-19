@@ -87,8 +87,8 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * Ziel: Daten von OpenStreetMap und GIS-Browser kombinieren und in Unity3D zeigen (80% der Zeit). Erste Demoszene bauen in Unity3D (20% der Zeit).
 * Periode: 29.10.2018 - 04.11.18
 * Dauer: 7 Tage
-* **Donat genügend Stunden**
-* **Leonard 40 Stunden**
+* Donat **genügend** Stunden
+* Leonard **40** Stunden
 * 👍 Erfolg: 80%   
 * Zusammenfassung: Habe die Daten der Stadt als 3D Modell in einer Datei / Archiv noch nicht organisieren können. Leonard hat einen Videoreport seiner zweiten Woche als [Video Report](https://www.youtube.com/watch?v=zpmHGtxzrP4) geschickt. Es waren noch zu viele offene Fragen bezüglich der Daten und wie man denn die Facaden erzeugen könnte zu klären, weshalb die Demoszenen nicht gezeigt werden konnten.
 
@@ -98,9 +98,9 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * Ziel: Organisiere das Stadtmodell Zürich 3D. Überprüfe die [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) bezüglich Möglichkeiten und Lizenzkosten bei [Esri](https://www.esri.ch) Schweiz. Kontaktiere Kunstschaffende von Zürich wie Illustratoren, 3D Animationsprofis oder Filmproduzenten. Finde Mitarbeiter für 3D Modellierung, cartoCartoon & Anime Zeichner sowie 2D nach 3D Modellkonvertiererdienstleister. Besuch eines 3D Körperscanner und Plastikfigurendruckservice in Zürich. Erstelle eine Lesezeichensammlung für all die 3D, Unity Animationsquellen im Internet. Kaufe und lese Bücher über Animation, Zeichenstyle, Architektur und Design.
 * Periode: 05.11.2018 - 11.11.18
 * Dauer: 7 Tage
-* **Donat genügend Stunden**
-* **Leonard 7 Stunden**
-* **Phil 28 Stunden**
+* Donat **genügend** Stunden
+* Leonard **7** Stunden
+* Phil **28** Stunden
 * 🥇 Erfolg: 100%   
 * Zusammenfassung: [3D Stadtmodell OGD](https://data.stadt-zuerich.ch/dataset?q=3D+Stadtmodell+OGD)(1.5 GB tar file), CityEngine Advanced (Demo Lizenz 30days trial), [Christian Zogg](http://www.christianzogg.com) (Zürich), [Florian Baumann](http://www.florianbaumann.com/about/) (PULK Zürich), [Lilou Studio](http://www.liloustudio.com/3D_animation/index.php) (Margit Games Zürich), [Mookx](http://www.mookx.nl) (Amsterdam), Daniel Hovatis (Graz), [Gorille](http://gorille.co) (Paris), Bookmarks, [Wiki Animation 3D](https://github.com/mind-research-systems/zuerich/wiki/Animation-3D-Bookmarks)
 
@@ -108,11 +108,11 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 
 ### 💯 Woche 4  
 * Ziel: Retro der letzten vier Wochen. Neuplanung bis ende November 2018. Documentationsqualität verbessern. Demoszenen erstellen [Schindlerpark](https://www.google.ch/maps/place/Schindlergut/@47.3864388,8.5339195,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a0d28ecddf5:0x9d56e4a79c4143ef!8m2!3d47.3864388!4d8.5361082), [Limmatplatz](https://www.google.ch/maps/place/Limmatpl.,+8005+Zürich/@47.3844261,8.5294995,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a12589a41d7:0x2beaee1b7214c23e!8m2!3d47.3844225!4d8.5316935) or [Escher-Wyss-Platz](https://www.google.ch/maps/place/Escher-Wyss-Platz,+8005+Zürich/@47.3910482,8.5200328,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a41c5a22331:0x5a85c425ae122858!8m2!3d47.3910446!4d8.5222268), [Kornhausbrücke](https://www.google.ch/maps/place/Kornhausbrücke,+Zürich/@47.3857063,8.5309521,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a12a474e059:0x228d28bb36797350!8m2!3d47.3857027!4d8.5331461). 
-* Dauer: 7 Tage
-* **Donat genügend Stunden**
-* **Leonard 40 Stunden**
-* **Phill 39 Stunden**
-* **Nirmla 2 Stunden**
+* Dauer: **7** Tage
+* Donat genügend Stunden
+* Leonard **40** Stunden
+* Phill **39** Stunden
+* Nirmla **2** Stunden
 * Periode: 12.11.2018 - 18.11.18
 * 🥇 Success ratio: 100%   
 * Zusammenfassung: **Diese Projektdokumentation**
