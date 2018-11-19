@@ -66,6 +66,6 @@ Der **Plan** mit einem **Team** aus mir und **3 Experten** in **vier Wochen den 
  
 * **Donat** ▫️ Lebenskünstler und Informatiker ▫️ **Zürich**, Schweiz
 * **Leonard** ▫️ 3D Content Creator, Animator and Effects Artist ▫️ **Douala**, Cameroon
-* **Phil** ▫️ GIS Expert / Developer ▫️ **Kisumu**, Kenya
+* **Phil** ▫️ GIS, CityEngine Expert / Developer ▫️ **Kisumu**, Kenya
 * **Nirmla** ▫️ Expert with wordpress/PHP, HTML/CSS3, SASS, Angular JS ▫️ **Mandi**, India
 
