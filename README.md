@@ -28,7 +28,7 @@ Aussen | Innenhof | Architektur  | Nacht
 ------------ | ------------- | ------------- | -------------
 <img src="aussen-1.jpg" height="120" width="180"> | <img src="innenhof-1.png" height="120" width="180"> | <img src="architektur.jpg" height="120" width="180"> | <img src="nacht.jpg" height="120" width="180">
 
-*Sonst dürfte es schwierig werden, innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel zu kommen.*
+*Sonst dürfte es schwierig werden, innert nützlicher Frist, und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel zu kommen.*
 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
