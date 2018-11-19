@@ -34,3 +34,5 @@ Aussen | Innenhof | Architektur  | Nacht
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
 
 **Simulations und Gamification Platform für Zürich in 3D**
+
+![Alt text](https://g.gravizo.com/svg?digraph%20G%20%7B%0A%20%20%20%20size%20%3D%224%2C4%22%3B%0A%20%20%20%20simulation%20-%3E%20unity%3B%0A%20%20%20%20game%20-%3E%20unity%3B%0A%20%20%7D)
