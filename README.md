@@ -13,7 +13,7 @@ Zur Visualisierung von Simulationen in 2D / 3D habe ich Tools gesucht und bin da
 </table>
 
 ## Idee
-Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich an mit den 3D Daten der Stadt einen Prototypen zu bauen. Das Stadtmodell besteht aber nur aus den Quadern der Gebäude mit den Dächern. Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel. 
+Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich an mit den 3D Daten der Stadt einen Prototypen zu bauen. Das Stadtmodell besteht aber nur aus den Quadern der Gebäude mit den Dächern. Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. *Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel.* 
 
 ![maya](https://user-images.githubusercontent.com/11026671/47834942-f6822e80-dda1-11e8-980c-832891336d0f.png)
 
