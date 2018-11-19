@@ -79,7 +79,7 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 * **Donat genügend Stunden**
 * **Leonard 10 Stunden**
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: Das Modell von TurboSquid war totaler Schrott, den ich zum Glück zurück erstattet bekam. **Leonard** 👱 ist ins Team gekommen und hat einen Videoreport seiner Erfolge mit den Daten aus dem GIS-Browser als [Video Report](https://www.youtube.com/watch?v=gJH0NMV72y8) geschickt.
+* Zusammenfassung: Das Modell von TurboSquid war totaler Schrott, den ich zum Glück zurück erstattet bekam. **Leonard** 👱 ist ins Team gekommen und hat einen Videoreport betreffend dem 💩 Modell von TurboSquid als [Video Report](https://www.youtube.com/watch?v=gJH0NMV72y8) geschickt.
 
 ***
 
