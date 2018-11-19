@@ -70,7 +70,7 @@ Der **Plan** mit einem **Team** aus mir und **3 Experten** in **vier Wochen den 
 * **Nirmla** ▫️ Expert with wordpress/PHP, HTML/CSS3, SASS, Angular JS ▫️ **Mandi**, India
 
 ## Projekt
-Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startete am Montag den **22.10.2018** und endet am Sonntag den **18.11.18**. So viel der Plan, viel Glück ! 😎✌️🌼
+Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startete am Montag den **22.10.2018** und endet am Sonntag den **18.11.18**.
 
 ### 💯 Woche 1  
 * Ziel: Ein [3D Modell von Zürich](https://www.turbosquid.com/3d-models/zurich-cityscape-3d-dxf/946177) gekauft bei TurboSquid für über $400.- ausprobieren. **War leider absolut Wertlos siehe Videoreport !**). Als Alternative die Daten vom [GIS-Browser](https://maps.zh.ch) runterladen und in **Unity3D** zum Leben zu erwecken versuchen.
