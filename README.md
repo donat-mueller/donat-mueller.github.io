@@ -60,3 +60,10 @@ Alles alleine umsetzen zu wollen ist **keine gute Idee**. Freelancer findet man 
 
 ## Inspiration
 Meine grösste Inspiration ist mein **Mami**, das Leben an und für sich und natürlich **Zürich**. Dann kommen noch all die lehrreichen und schönen **Bücher** die ich lesen durfte. Und natürlich die vielen **lieben Freunde**, die geduldig meinen verrücken Ideen lauschen und mir immer wieder verzeihen, wenn ich wieder einmal dem Fass den Boden ausschlage. 🙏
+
+## Team
+Auf Upwork habe ich aus mir bekannten und neuen **Experten** ein Team gebildet um einen **Prototypen für Zürich 3D** in **4 Wochen** zu entwickeln.
+* Ich, Lebenskünstler und Informatiker (Zürich, Schweiz)
+* Leonard, 3D Content Creator, Animator and Effects Artist (Douala, Cameroon)
+* Phil, GIS Expert/ Developer (Kisumu, Kenya)
+* Nirmla, Shopify expert with wordpress/PHP with HTML/CSS3, SASS, Angular JS (Mandi, India)
