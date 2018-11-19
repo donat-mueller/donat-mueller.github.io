@@ -51,7 +51,7 @@ Solche und andere Fragen zu beantworten, ist der Zweck der Simulation.
 Mit **Zürich 3D** lassen sich aber auch interessante Spielanwendungen realisieren... 😃
 
 ## Vorgehen
-Um solche Projekte abzuwickeln ist es nützlich sich an einschlägige Literatur zu halten. Denn schief gehen tut noch genug. 👻 
+Um solche Projekte abzuwickeln ist es gut sich an einschlägige Literatur zu halten. Denn schief gehen tut noch genug. 👻 
 * Als Vorgehensmodell verwende ich [Scrum](https://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf). 
 * Als Leitfaden für die Spielentwicklung halte ich mich an [Fundamentals of Game Design](http://ptgmedia.pearsoncmg.com/images/9780321929679/samplepages/0321929675.pdf). 
 * Als Planungshilfe habe ich mir [How to Plan Game Environments and Level Designs](https://www.worldofleveldesign.com/store/preproductionblueprint.php) gekauft. 
