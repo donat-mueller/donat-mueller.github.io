@@ -19,7 +19,7 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
   <tr>
     <td><img src="https://user-images.githubusercontent.com/11026671/47834942-f6822e80-dda1-11e8-980c-832891336d0f.png" height="375"></td> 
     <td>
-		<table ">
+		<table>
   			<tr>
    				 <td><img src="aussen-1.jpg" height="75" width="120"></td> 
 		    </tr>
