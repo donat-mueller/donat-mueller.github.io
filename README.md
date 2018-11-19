@@ -20,4 +20,4 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
 
-*Simulations und Gamification Platform für Zürich in 3D* 
+**Simulations und Gamification Platform für Zürich in 3D**
