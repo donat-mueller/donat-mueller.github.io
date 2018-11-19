@@ -43,6 +43,8 @@ Die **MRS Mind Research Systems GmbH** hat den Zweck:
 
 **Erforschung von Gedanken und Gefühlen** und ein Soziales Netzwerk ist ein **Speicher für Emotionen**
 
-*Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ! Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* 
+* *Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ? 
+* Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?* 
 
-Solche und andere Fragen zu beantworten, ist der *Zweck der Simulation* und mit dem *Zürich 3D* lassen sich nebenbei noch interessante Spielanwendungen realisieren.
+Solche und andere Fragen zu beantworten, ist der *Zweck der Simulation* 
+Mit **Zürich 3D** lassen sich abert auch interessante Spielanwendungen realisieren...
