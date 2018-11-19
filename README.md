@@ -21,15 +21,14 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
   </tr>
 </table>
 
-Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. 
-		<table style="width:100%">
-  			<tr>
-   				 <td><img src="aussen-1.jpg" height="120" width="180"></td> 
-   				 <td><img src="innenhof-1.png" height="120" width="180"></td> 
-   				 <td><img src="architektur.jpg" height="120" width="180"></td> 
-  				 <td><img src="nacht.jpg" height="120" width="180"></td> 
-  			<tr>
-		</table>
+<table style="width:100%">
+  <tr>
+    <td><img src="aussen-1.jpg" height="120" width="180"></td> 
+    <td><img src="innenhof-1.png" height="120" width="180"></td> 
+    <td><img src="architektur.jpg" height="120" width="180"></td> 
+    <td><img src="nacht.jpg" height="120" width="180"></td> 
+  <tr>
+</table>
 
 *Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel.* 
 
