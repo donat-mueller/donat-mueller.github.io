@@ -13,7 +13,7 @@ Zur Visualisierung von Simulationen in 2D / 3D habe ich Tools gesucht und bin da
 </table>
 
 ## Idee
-Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich an mit den 3D Daten der Stadt einen Prototypen zu bauen. Das Stadtmodell besteht aber nur aus den Quadern der Gebäude mit den Dächern. Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel. 
+Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich an mit den 3D Daten der Stadt einen Prototypen zu bauen. Das Stadtmodell besteht aber nur aus den Quadern der Gebäude mit den Dächern. 
 
 <table style="width:100%">
   <tr>
@@ -21,6 +21,7 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
   </tr>
 </table>
 
+Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel. 
 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
