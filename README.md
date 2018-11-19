@@ -125,5 +125,5 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 * Nirmla **2** Stunden
 * Periode: 12.11.2018 - 18.11.18
 * 🥇 Erfolg: 100%   
-* Zusammenfassung: **Diese Projektdokumentation**
+* Zusammenfassung: **Diese Projektdokumentation** und Team mit Nirmla ergänzt.
 
