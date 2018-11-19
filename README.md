@@ -61,8 +61,8 @@ Alles alleine umsetzen zu wollen ist **keine gute Idee**. Freelancer findet man 
 ## Inspiration
 Meine grösste Inspiration ist mein **Mami**, das Leben an und für sich und natürlich **Zürich**. Dann kommen noch all die lehrreichen und schönen **Bücher** die ich lesen durfte. Und natürlich die vielen **lieben Freunde**, die geduldig meinen verrücken Ideen lauschen und mir immer wieder verzeihen, wenn ich wieder einmal dem Fass den Boden ausschlage. 🙏
 
-## Team
-Mein **Plan** ein **Team** aus mir und **3 Experten** zu bilden, um einen **Prototypen für Zürich 3D** in **vier Wochen** zu entwickeln.
+## Plan / Team
+Der **Plan** mit einem **Team** aus mir und **3 Experten** in **vier Wochen den Prototypen für Zürich 3D** zu entwickeln.
  
 * **Donat** ▫️ Lebenskünstler und Informatiker ▫️ **Zürich**, Schweiz
 * **Leonard** ▫️ 3D Content Creator, Animator and Effects Artist ▫️ **Douala**, Cameroon
