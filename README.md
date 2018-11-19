@@ -46,6 +46,6 @@ Die **MRS Mind Research Systems GmbH** hat den Zweck:
 * Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ? 
 * Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?
 
-Solche und andere Fragen zu beantworten, ist der *Zweck der Simulation* .
+Solche und andere Fragen zu beantworten, ist der *Zweck der Simulation.*
 
 Mit **Zürich 3D** lassen sich aber auch interessante Spielanwendungen realisieren... 😃
