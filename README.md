@@ -5,7 +5,7 @@ Dies ist die Projektbeschreibung des Prototypen für das Zürich 3D Projekt.
 ## Motivation
 Zur Visualisierung von Simulationen in 2D / 3D habe ich Tools gesucht und bin dabei auf die Game Engine [Unity3D](https://unity3d.com/unity), die [CityEngine](https://www.esri.ch/de/produkte/cityengine) von Esri und den [GIS-Browser](https://maps.zh.ch) der Stadt Zürich gestossen. 
 
-<table style="width:100%">
+<table align="center" style="width:100%">
   <tr>
     <td><img src="Schindlerpark.png" width="350" height="275"></td>
     <td><img src="Schindlerpark-GIS.png" width="350" height="275"></td> 
