@@ -31,9 +31,7 @@ Aussen | Innenhof | Architektur  | Nacht
 *Sonst dürfte es schwierig werden, innert nützlicher Frist, und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel zu kommen.*
 
 ## Vision
-Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
-
-**Simulations und Gamification Platform für Zürich in 3D**
+Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend: **Simulations und Gamification Platform für Zürich in 3D**
 
 Simulation | Gamification 
 ------------ | -------------
