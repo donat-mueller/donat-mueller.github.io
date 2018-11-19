@@ -53,7 +53,7 @@ Mit **Zürich 3D** lassen sich aber auch interessante Spielanwendungen realisier
 ## Vorgehen
 * Als Vorgehensmodell verwende ich [Scrum](https://www.scrumguides.org/docs/scrumguide/v1/scrum-guide-us.pdf). 
 * Als Leitfaden für die Spielentwicklung halte ich mich an [Fundamentals of Game Design](http://ptgmedia.pearsoncmg.com/images/9780321929679/samplepages/0321929675.pdf). 
-* Als Planungshilfe habe ich mir den Preproduction Blueprint [How to Plan Game Environments and Level Designs](https://www.worldofleveldesign.com/store/preproductionblueprint.php) gekauft. 
+* Als Planungshilfe habe ich mir [How to Plan Game Environments and Level Designs](https://www.worldofleveldesign.com/store/preproductionblueprint.php) gekauft. 
 * Freelancer findet man auf Platformen wie [Upwork](https://www.upwork.com). 
 
 *Sich etwas Expertenwissen zu organisieren, kann nicht schaden.* 😉
