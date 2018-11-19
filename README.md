@@ -56,7 +56,7 @@ Mit **Zürich 3D** lassen sich aber auch interessante Spielanwendungen realisier
 * Als Planungshilfe habe ich mir den Preproduction Blueprint [How to Plan Game Environments and Level Designs](https://www.worldofleveldesign.com/store/preproductionblueprint.php) gekauft. 
 * Freelancer findet man auf Platformen wie [Upwork](https://www.upwork.com). 
 
-*Sich etwas Expertenwissen zumieten kann nicht schaden.* 😉
+*Sich etwas Expertenwissen organisieren, kann nicht schaden.* 😉
 
 ## Inspiration
 Meine grösste Inspiration ist mein **Mami**, das Leben an und für sich und natürlich **Zürich**. Dann kommen noch all die lehrreichen und schönen **Bücher** die ich lesen durfte. Und natürlich die vielen **lieben Freunde**, die geduldig meinen verrücken Ideen lauschen und mir immer wieder verzeihen, wenn ich wieder einmal dem Fass den Boden ausschlage. 🙏
