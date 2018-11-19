@@ -21,6 +21,8 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
   </tr>
 </table>
 
+Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln.
+
 <table style="width:100%">
   <tr>
     <td><img src="aussen-1.jpg" height="120" width="180"></td> 
@@ -36,7 +38,3 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
 
 *Simulations und Gamification Platform für Zürich in 3D*
-
-
-
-
