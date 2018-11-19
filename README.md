@@ -18,27 +18,20 @@ Da Städte wie das heutige Zürich im Fokus der Simulation sind, bietet es sich 
 <table style="width:100%">
   <tr>
     <td><img src="https://user-images.githubusercontent.com/11026671/47834942-f6822e80-dda1-11e8-980c-832891336d0f.png" height="375"></td> 
-    <td>
-		<table>
-  			<tr>
-   				 <td><img src="aussen-1.jpg" height="75" width="120"></td> 
-		    </tr>
-  			<tr>
-   				 <td><img src="innenhof-1.png" height="75" width="120"></td> 
-		    </tr>
-  			<tr>
-   				 <td><img src="architektur.jpg" height="75" width="120"></td> 
-		    </tr>
-  			<tr>
-   				 <td><img src="nacht.jpg" height="75" width="120"></td> 
-		    </tr>
-  			<tr>
-		</table>
-    </td> 
   </tr>
 </table>
 
-Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel. 
+Also müsste ich eine Technologie wie [Computer Generated Architecture](https://cehelp.esri.com/help/index.jsp?topic=/com.procedural.cityengine.help/html/manual/cga/basics/toc.html) (CGA) der CityEngine verwenden oder selber entwickeln. 
+		<table style="width:100%">
+  			<tr>
+   				 <td><img src="aussen-1.jpg" height="120" width="180"></td> 
+   				 <td><img src="innenhof-1.png" height="120" width="180"></td> 
+   				 <td><img src="architektur.jpg" height="120" width="180"></td> 
+  				 <td><img src="nacht.jpg" height="120" width="180"></td> 
+  			<tr>
+		</table>
+
+*Denn nur so kommt man innert nützlicher Frist und mit den mir zur verfügung stehenden finanziellen Mittel ans Ziel.* 
 
 ## Vision
 Da Unity3D eine Game Engine ist, war folgende Projektidee naheliegend:
