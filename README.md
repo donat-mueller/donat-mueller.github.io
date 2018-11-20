@@ -127,3 +127,5 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 * 🥇 Erfolg: 100%   
 * Zusammenfassung: **Diese Projektdokumentation** und ins Team gekommen ist **Nirmla** 👩.
 
+
+mehr dazu später, muss ins Körbli und den nächsten Sprint vorbereiten ...
