@@ -130,11 +130,12 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 ***
 
 ## Character Design 
-Gerade im Postfach aus Indien gelandet...
+Gerade gelandet aus Indien ein Mann ...
 
-### Mann #1
+### Philip & da Goose
 <table style="width:100%">
   <tr>
+    <td><img src="guy-vorlage.jpg" height="375"></td> 
     <td><img src="guy.jpg" height="375"></td> 
   </tr>
 </table>
