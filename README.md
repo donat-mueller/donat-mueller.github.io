@@ -130,7 +130,7 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 ***
 
 ## Character Design 
-Gerade gelandet aus Indien ein Mann ...
+Gerade gelandet aus Indien a Resident Evil ...
 
 ### Philip & da Goose
 
