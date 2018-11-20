@@ -134,7 +134,7 @@ Voller Stolz darf ich euch unseren ersten Bewohner vorstellen
 
 ### Philip & da Goose
 
-2D Grafity (Letten)  | Interpretation Zürich 3D
+2D Grafity (Zürich Letten)  | Interpretation Zürich 3D
 ------------ | ------------- 
 <img src="guy-vorlage.png" height="375"> | <img src="guy.jpg" height="375">
 
