@@ -41,7 +41,7 @@ Manche mögen sich jetzt fragen: *was hat das **Soziale Netzwerk** da zu suchen 
 
 Die **MRS Mind Research Systems GmbH** hat den Zweck: **Erforschung von Gedanken und Gefühlen** 
 
-Ein Soziales Netzwerk ist ein **Speicher für Emotionen**, den ich in 3D zu visualisieren versuche will.
+Ein Soziales Netzwerk ist ein **Speicher für Emotionen**, den ich in 3D zu visualisieren versuchen will.
 
 * Ein **Like** ist doch kein differenzierter emotioneller Ausdruck ? 
 * Auf was bezieht ein Like gepostet zu einem Bild überhaupt ?
@@ -95,7 +95,7 @@ Das Projekt **Prototyp Zürich 3D** dauert **einen vier Wochen Sprint**. Startet
 ***
 
 ### 💯 Woche 3  
-* Ziel: Organisiere das Stadtmodell Zürich 3D. Überprüfe die [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) bezüglich Möglichkeiten und Lizenzkosten bei [Esri](https://www.esri.ch) Schweiz. Finde einen GIS und CityEngine Experten als freien Mitarbeier. Kontaktiere Kunstschaffende von Zürich wie Illustratoren, 3D Animationsprofis oder Filmproduzenten. Finde Mitarbeiter für 3D Modellierung, cCartoon & Anime Zeichner sowie 2D nach 3D Modellkonvertiererdienstleister. Besuch eines 3D Körperscanner und Plastikfigurendruckservice in Zürich. Erstelle eine Lesezeichensammlung für all die 3D, Unity Animationsquellen im Internet. Kaufe und lese Bücher über Animation, Zeichenstyle, Architektur und Design.
+* Ziel: Organisiere das Stadtmodell Zürich 3D. Überprüfe die [CityEngine](https://www.esri.com/en-us/arcgis/products/esri-cityengine/overview) bezüglich Möglichkeiten und Lizenzkosten bei [Esri](https://www.esri.ch) Schweiz. Finde einen GIS und CityEngine Experten als freien Mitarbeier. Kontaktiere Kunstschaffende von Zürich wie Illustratoren, 3D Animationsprofis oder Filmproduzenten. Finde Mitarbeiter für 3D Modellierung, Cartoon & Anime Zeichner sowie Dienstlister für 2D nach 3D Modellkonvertierung. Besuch eines 3D Körperscanner und Plastikfigurendruckservice in Zürich. Erstelle eine Lesezeichensammlung für all die 3D, Unity Animationsquellen im Internet. Kaufe und lese Bücher über Animation, Zeichenstyle, Architektur und Design.
 * Periode: 05.11.2018 - 11.11.18
 * Dauer: 7 Tage
 * Donat genügend Stunden
