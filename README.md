@@ -1,4 +1,4 @@
-# Zürich 3D
+# Zürich 3D der Prototyp
 Dies ist die Projektbeschreibung des Prototypen für das Zürich 3D Projekt.
 
 
