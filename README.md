@@ -129,6 +129,12 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 
 ***
 
-## Next
+## Character Design 
+Gerade im Postfach aus Indien gelandet...
 
-mehr dazu später, muss ins Körbli und den nächsten Sprint vorbereiten ...
+### Mann #1
+<table style="width:100%">
+  <tr>
+    <td><img src="guy.jpg" height="375"></td> 
+  </tr>
+</table>
