@@ -135,7 +135,7 @@ Gerade gelandet aus Indien ein Mann ...
 ### Philip & da Goose
 <table style="width:100%">
   <tr>
-    <td><img src="guy-vorlage.jpg" height="375"></td> 
+    <td><img src="guy-vorlage.png" height="375"></td> 
     <td><img src="guy.jpg" height="375"></td> 
   </tr>
 </table>
