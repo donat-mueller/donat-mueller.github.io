@@ -130,10 +130,12 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 ***
 
 ## Character Design 
-Gerade zurück von seiner letzten Fotosafari aus Indien
+Voller Stolz darf ich euch unseren ersten Bewohner von Zürich 3D vorstellen
 
 ### Philip & da Goose
 
-Grafity vom Letten  | 3D Modell aus Indien
+2D Grafity (Letten)  | 3D Modell im Game
 ------------ | ------------- 
 <img src="guy-vorlage.png" height="375"> | <img src="guy.jpg" height="375">
+
+Demnächst mehr unter **zuerich3D.org** ✌️🌸
