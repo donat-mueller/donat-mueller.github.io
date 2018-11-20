@@ -133,9 +133,7 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 Gerade gelandet aus Indien ein Mann ...
 
 ### Philip & da Goose
-<table style="width:100%">
-  <tr>
-    <td><img src="guy-vorlage.png" height="375"></td> 
-    <td><img src="guy.jpg" height="375"></td> 
-  </tr>
-</table>
+
+Grafity vom Letten  | 3D Modell aus Indien
+------------ | ------------- 
+<img src="guy-vorlage.png" height="375"> | <img src="guy.jpg" height="375">
