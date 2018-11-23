@@ -143,7 +143,7 @@ Demnächst mehr unter **zuerich3D.org** ✌️🌸
 ## [GZ Schindlergut](https://www.google.ch/maps/place/Schindlergut/@47.3864388,8.5339195,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a0d28ecddf5:0x9d56e4a79c4143ef!8m2!3d47.3864388!4d8.5361082) 
 Hier einige Impressionen Parkanlagen in **Zürich 3D** aussehen. 
 
-### Das Ergebnis einer Stunde Speed - Prototyping 
+*Das Ergebnis einer Stunde Speed - Prototyping* 
 GZ-Schindlergut  | GZ-Schindlergut
 ------------ | ------------- 
 <img src="schindlerpark-1.png" height="120" width="180"> | <img src="schindlerpark-2.png" height="120" width="180">
