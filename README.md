@@ -139,3 +139,19 @@ Voller Stolz darf ich euch unseren ersten Bewohner vorstellen
 <img src="guy-vorlage.png" height="375"> | <img src="guy.jpg" height="375">
 
 Demnächst mehr unter **zuerich3D.org** ✌️🌸
+
+## [GZ Schindlergut](https://www.google.ch/maps/place/Schindlergut/@47.3864388,8.5339195,17z/data=!3m1!4b1!4m5!3m4!1s0x47900a0d28ecddf5:0x9d56e4a79c4143ef!8m2!3d47.3864388!4d8.5361082) 
+Hier einige Impressionen Parkanlagen in **Zürich 3D** aussehen. 
+
+### Das Ergebnis einer Stunde Speed - Prototyping 
+GZ-Schindlergut  | GZ-Schindlergut
+------------ | ------------- 
+<img src="schindlerpark-1.png"> | <img src="schindlerpark-2.png">
+<img src="schindlerpark-3.png"> | <img src="schindlerpark-4.png">
+<img src="schindlerpark-5.png"> | <img src="schindlerpark-6.png">
+<img src="schindlerpark-7.png"> | <img src="schindlerpark-8.png">
+<img src="schindlerpark-9.png"> | <img src="schindlerpark-10.png">
+<img src="schindlerpark-11.png"> | <img src="schindlerpark-12.png">
+<img src="schindlerpark-13.png"> | <img src="schindlerpark-14.png">
+
+
