@@ -146,12 +146,12 @@ Hier einige Impressionen Parkanlagen in **Zürich 3D** aussehen.
 ### Das Ergebnis einer Stunde Speed - Prototyping 
 GZ-Schindlergut  | GZ-Schindlergut
 ------------ | ------------- 
-<img src="schindlerpark-1.png"> | <img src="schindlerpark-2.png">
-<img src="schindlerpark-3.png"> | <img src="schindlerpark-4.png">
-<img src="schindlerpark-5.png"> | <img src="schindlerpark-6.png">
-<img src="schindlerpark-7.png"> | <img src="schindlerpark-8.png">
-<img src="schindlerpark-9.png"> | <img src="schindlerpark-10.png">
-<img src="schindlerpark-11.png"> | <img src="schindlerpark-12.png">
-<img src="schindlerpark-13.png"> | <img src="schindlerpark-14.png">
+<img src="schindlerpark-1.png" height="120" width="180"> | <img src="schindlerpark-2.png" height="120" width="180">
+<img src="schindlerpark-3.png" height="120" width="180"> | <img src="schindlerpark-4.png" height="120" width="180">
+<img src="schindlerpark-5.png" height="180" width="180"> | <img src="schindlerpark-6.png" height="180" width="180">
+<img src="schindlerpark-7.png" height="120" width="180"> | <img src="schindlerpark-8.png" height="120" width="180">
+<img src="schindlerpark-9.png" height="120" width="180"> | <img src="schindlerpark-10.png" height="120" width="180">
+<img src="schindlerpark-11.png" height="120" width="180"> | <img src="schindlerpark-12.png" height="120" width="180">
+<img src="schindlerpark-13.png" height="120" width="180"> | <img src="schindlerpark-14.png" height="120" width="180">
 
 
