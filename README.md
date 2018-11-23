@@ -144,6 +144,7 @@ Demnächst mehr unter **zuerich3D.org** ✌️🌸
 Hier einige Impressionen Parkanlagen in **Zürich 3D** aussehen. 
 
 *Das Ergebnis einer Stunde Speed - Prototyping* 
+
 GZ-Schindlergut  | GZ-Schindlergut
 ------------ | ------------- 
 <img src="schindlerpark-1.png" height="120" width="180"> | <img src="schindlerpark-2.png" height="120" width="180">
