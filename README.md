@@ -129,7 +129,7 @@ Bookmarks gesammelt: [Wiki Animation 3D](https://github.com/mind-research-system
 
 ***
 
-## Bewohner von Zürich 3D 
+## Bewohner von Zürich 3D ⭐️⭐️⭐️
 Voller Stolz darf ich euch unseren ersten Bewohner vorstellen
 
 ### Philip & da Goose
