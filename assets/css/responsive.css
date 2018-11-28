@@ -55,5 +55,6 @@
  .main-content .tab-multi-img th:nth-child(3) {width: 75px;}
  .page-header {padding: .5rem 1rem 2rem;}
  .mbversion {display: block;}
+ .mbversion .schindlergu-table:last-child {margin-top: 20px;}
  .deskversion {display: none;}
 }
