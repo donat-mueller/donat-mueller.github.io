@@ -6,7 +6,7 @@
                 {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
       </div>
   
-      <h1 class="project-name" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</h1>
+      <h1 class="project-name" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description[page.lang] }}</h2>
 </header>
 
