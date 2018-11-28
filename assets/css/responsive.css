@@ -42,6 +42,7 @@
 .project-tagline {font-size: 15px;}
 .page-header {padding: .5rem 2rem 2rem;}
 .main-content .schindlergu-table img {height: 115px;}
+ .main-content table th {font-size: 12px;}
 }
 
 @media (max-width: 479px){  
