@@ -58,4 +58,9 @@
  .mbversion {display: block;}
  .mbversion .schindlergu-table:last-child {margin-top: 20px;}
  .deskversion {display: none;}
+ .main-content .schindlergu-table img {height: 150px;}
+ }
+
+@media (max-width: 375px){
+.main-content .schindlergu-table img {height: 100px;}
 }
