@@ -10,7 +10,7 @@
     {% endif %}
     <meta charset="UTF-8">
     <title>{{ site.title }}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+    <meta name="description" content="{{ site.description }}{% endif %}">
     {% seo %}
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
