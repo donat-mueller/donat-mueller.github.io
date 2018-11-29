@@ -3,4 +3,7 @@ description: Zürich 3D - Simulation & Gamification
 index:
   de: 
   en: en.html
+feed:
+  en: /feed.xml
+  fr: /flux.xml
 theme: jekyll-theme-cayman
