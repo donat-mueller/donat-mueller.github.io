@@ -5,5 +5,5 @@ index:
   en: en.html
 feed:
   en: /feed.xml
-  fr: /flux.xml
+  de: /futter.xml
 theme: jekyll-theme-cayman
